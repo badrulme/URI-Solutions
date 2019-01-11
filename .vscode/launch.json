@@ -1,0 +1,18 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - EvenNumbers1059",
+            "request": "launch",
+            "mainClass": "EvenNumbers1059",
+            "projectName": "URI-Solutions_8e384e0"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Interval1037",
+            "request": "launch",
+            "mainClass": "Interval1037",
+            "projectName": "URI-Solutions_8e384e0"
+        }
+    ]
+}
